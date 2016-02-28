@@ -1,0 +1,31 @@
+_repo: The-Spirit-of-St-Francis-de-Sales_9184
+contributor:
+  contributor:
+    agent_name: Francis, de Sales, Saint
+    alias: Sales, Francis de, Saint
+    birthdate: 1567
+    deathdate: 1622
+    gutenberg_agent_id: '40914'
+    url: http://www.gutenberg.org/2009/agents/40914
+creator:
+  author:
+    agent_name: Camus, Jean-Pierre
+    birthdate: 1584
+    deathdate: 1652
+    gutenberg_agent_id: '2992'
+    url: http://www.gutenberg.org/2009/agents/2992
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Catholic authors'
+- !lcc 'BX'
+- !lcsh 'Devotional literature'
+title: The Spirit of St. Francis de Sales
+url: http://www.gutenberg.org/ebooks/9184
